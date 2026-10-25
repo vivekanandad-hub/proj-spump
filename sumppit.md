@@ -1,29 +1,30 @@
 # VEVOR ZX31006 sump basin: preparation and installation guideline
 
-For an outdoor roof-water sump in clay that holds its shape but deforms under a person's weight. Existing hole: approximately 30 inches wide × 54 inches deep.
+For an outdoor roof-water sump in clay that holds its shape but deforms under a person's weight. The pit footprint is fixed at 32 × 24 inches and cannot be widened. Use a pit depth equal to the drum height plus 12 inches: 43.50 inches for the published 31.50-inch height. The user confirmed that the footprint is rectangular.
 
 ## Dimensions and planning
 
-VEVOR's current product dimension image specifies a basin diameter of 21.26 inches (540 mm) and height to lid of 31.50 inches (800 mm), excluding discharge piping above the lid. These replace the earlier nominal 18 × 30-inch figures. Check the delivered unit; if its actual outside measurement is larger, use that measurement for clearance.
+VEVOR's linked product dimension image, checked on October 25, 2026, specifies an overall basin width of 21.26 inches (540 mm) and height to lid of 31.50 inches (800 mm), excluding discharge piping above the lid. The image shows a tapered drum but does not label its bottom diameter. Its overall width spans the lid; using this as the tapered body's top diameter is an approximation. These replace the earlier nominal 18 × 30-inch figures. Check the delivered unit; if its actual outside measurement is larger, use that measurement for clearance.
 
 The installation manual calls for a hole approximately 24 inches wider in diameter and 12 inches deeper than the basin. It specifies 1/8–3/4-inch pea gravel or crushed stone for the sub-base and backfill.
 
 | Item | Dimension |
 | --- | --- |
-| Published basin diameter | 21.26 inches |
+| Published overall basin width | 21.26 inches |
 | Published basin height | 31.50 inches |
-| Calculated excavation diameter | 45.26 inches; allow approximately 46 inches |
+| Fixed pit footprint | 32 × 24 inches; no widening |
+| Manufacturer clearance reference | Approximately 45.26-inch hole diameter; not met by the fixed pit |
 | Calculated excavation depth, lid at ground level | 43.50 inches |
-| Existing hole | 30 inches wide × 54 inches deep |
-| Prepared base thickness in existing hole, lid at ground level | 22.50 inches |
+| Gravel base thickness, lid at ground level | 12 inches |
+| Drum bottom outside diameter | Not yet measured; required for tapered-volume calculation |
 
-The 22.50-inch calculation sets elevation only; it is not a verified foundation design for soft clay. A lid above ground requires more base thickness. Removing additional mud also increases the required fill. Measure from the cleaned bottom to the intended lid elevation before setting the base.
+The 12-inch base allowance sets elevation only; it is not a verified foundation design for soft clay. A lid above ground requires more base thickness. Removing additional mud also increases the required fill. Measure from the cleaned bottom to the intended lid elevation before setting the base.
 
 ## Before starting
 
-1. Have a person competent in excavation safety assess the recently wet, 4.5-foot-deep hole before anyone enters or widens it. A hole less than 5 feet deep can still require collapse protection. Keep people away from unsupported edges.
-2. Resolve the insufficient width. The approximately 46-inch dimension provides installation clearance; it is not a safe-slope or shoring design. Safe excavation may require additional width.
-3. Have the approximately 22.5-inch replacement foundation over soft clay specified locally, including its placement and consolidation method. Hand seating of stone alone does not verify adequate bearing capacity or acceptable settlement.
+1. Have a person competent in excavation safety assess the recently wet hole before anyone enters it. A hole less than 5 feet deep can still require collapse protection. Keep people away from unsupported edges.
+2. The fixed 32 × 24-inch pit does not meet the manual's stated installation clearance. With a centered 21.26-inch circular basin envelope in a rectangular pit, clearance is only 1.37 inches on each side along the 24-inch dimension. Confirm a suitable installation method with the manufacturer before installation; the quantity calculation does not establish installation suitability.
+3. Have the 12-inch stone foundation over soft clay specified locally, including its placement and consolidation method. Hand seating of stone alone does not verify adequate bearing capacity or acceptable settlement.
 4. Check groundwater and anti-flotation requirements for the basin. Stone bedding and backfill alone do not establish that an empty basin is adequately anchored.
 
 ## Prepare the bottom
@@ -41,7 +42,7 @@ Base-only geotextile is a compromise: it separates the bottom, but clay can stil
 
 - Cover the entire excavation bottom, not just the basin footprint.
 - Turn the fabric up around the bottom perimeter, following the supplier's placement requirements. Place stone gently without tearing or displacing it.
-- For a 46-inch-wide hole, a 6 × 6-foot piece provides approximately 13 inches of upturn on each side on an ideal flat section. Allow more for irregular ground, folds, and the supplier's requirements.
+- For the rectangular 32 × 24-inch bottom, a 4 × 4-foot piece provides approximately 8 inches of upturn at the ends of the 32-inch dimension and 12 inches at the ends of the 24-inch dimension on ideal flat sections. Allow more for irregular ground, folds, and the supplier's requirements.
 - Ask a drainage supplier or contractor for an unused construction-geotextile remnant. Do not substitute cardboard, burlap, plastic, tarps, or ordinary weed-control fabric.
 - The previously suggested 6-oz fabric is a shopping option, not a verified minimum specification. Fabric weight alone does not establish suitability.
 
@@ -75,21 +76,44 @@ STOP if stone keeps sinking, the surface feels springy, adjacent areas heave, cl
 
 ## Materials and shopping list
 
-Budget quantities assume a roughly cylindrical excavation widened to 46 inches, still 54 inches deep, with the published 21.26 × 31.50-inch basin and lid at ground level. Safe slopes, irregular excavation, a changed foundation design, or a raised lid change the quantities. Confirm the foundation method before ordering the full stone quantity.
+Quantities use the fixed rectangular 32 × 24-inch footprint, a 43.50-inch depth, and the lid at ground level. Gravel occupies the entire pit volume minus the tapered drum's outside volume, including a 12-inch base beneath the drum. The published 21.26-inch diameter is provisionally used as the drum top diameter; verify whether it includes a projecting lid or flange. The bottom outside diameter is missing, so the example below is not a final order quantity. Confirm drum measurements and foundation method before ordering.
 
 Prices below were researched on October 24, 2026. They are advertised prices, not confirmed Fremont checkout prices. Tax, shipping, delivery, and local stock may differ. No orders have been placed.
 
 | Material | Planning quantity | Supplier / ordering link | Published price or buying advice |
 | --- | --- | --- | --- |
-| Clean, washed, angular drain rock within VEVOR's 1/8–3/4-inch range | Approximately 2 cubic yards for base and side backfill, including a preliminary allowance | [Tri City Rock bulk quote](https://www.tricityrock.com/bulk-deliveries/) — 43157 Osgood Rd, Fremont; 510-651-7761 | Request an all-in delivered quote. Closest bulk option identified; lowest delivered price is not verified. Ask for grading confirmation, not Class II base rock. |
+| Clean, washed, angular drain rock within VEVOR's 1/8–3/4-inch range | Provisional example: 13.80 cu ft (0.51 cubic yard) before allowance; 15.18 cu ft with 10% allowance. Assumes an 18-inch bottom diameter; see calculation below | [Tri City Rock bulk quote](https://www.tricityrock.com/bulk-deliveries/) — 43157 Osgood Rd, Fremont; 510-651-7761 | Request an all-in delivered quote. Closest bulk option identified; lowest delivered price is not verified. Ask for grading confirmation, not Class II base rock. |
 | Same drain rock, alternative supplier | Have supplier convert the required cubic yards to tons | [Lyngsø 3/4-inch crushed drain rock](https://store.lyngsogarden.com/products/3-4--crushed-drain-rock-939.html), San Carlos | Listed at $89.95/ton plus delivery, or $6.95 per 1-cu-ft self-filled bag. Confirm washed condition and grading. Compare delivered totals with Tri City Rock. |
-| Construction separation geotextile — base-only option | One approximately 6 × 6-foot piece, adjusted for placement requirements | Ask Tri City Rock or a drainage contractor/supplier for a suitable unused offcut | Potentially avoids buying a full roll; offcut availability and price are unconfirmed. Base-only coverage leaves side-backfill mixing possible. |
-| Construction separation geotextile — full bottom/sides option | About 66 sq ft of actual bottom-and-side surface; allow roughly 100 sq ft for overlaps, cuts, and upper separation | [DeWitt 6-oz nonwoven, 4 × 50 ft](https://www.agriculturesolutions.com/dewitt-non-woven-soil-filter-fabric-6oz-4ft-x-50ft/) | Listed at $69.99 plus shipping; one roll provides 200 sq ft. Supplier must confirm suitability for clay and aggregate; follow overlap requirements. |
-| Soil cap for lawn finish, if permitted | Roughly 4.5 cu ft for a 6-inch cap around the basin | Reuse suitable excavated soil where appropriate | Keep cap soil separate from the stone envelope. |
+| Construction separation geotextile — base-only option | One approximately 4 × 4-foot piece for the rectangular bottom and short upturns; adjust for placement requirements | Ask Tri City Rock or a drainage contractor/supplier for a suitable unused offcut | Potentially avoids buying a full roll; offcut availability and price are unconfirmed. Base-only coverage leaves side-backfill mixing possible. |
+| Construction separation geotextile — full bottom/sides option | About 39.17 sq ft of rectangular bottom-and-side surface; allow roughly 60 sq ft for overlaps, cuts, and upper separation, subject to the cutting layout | [DeWitt 6-oz nonwoven, 4 × 50 ft](https://www.agriculturesolutions.com/dewitt-non-woven-soil-filter-fabric-6oz-4ft-x-50ft/) | Listed at $69.99 plus shipping; one roll provides 200 sq ft. Supplier must confirm suitability for clay and aggregate; follow overlap requirements. |
+| Soil cap for lawn finish, if permitted | Approximately 1.47 cu ft for a 6-inch cap in the example below; subtract this volume from gravel if used | Reuse suitable excavated soil where appropriate | Keep cap soil separate from the stone envelope. |
 
-Stone calculation: approximately 21.64 cu ft (0.80 cubic yard) beneath the basin plus 23.82 cu ft (0.88 cubic yard) around it, using a cylindrical basin envelope. Total is approximately 45.46 cu ft (1.68 cubic yards) before a soil cap or ordering allowance. The tapered basin, actual excavation, and consolidation affect the final amount. Two cubic yards is a preliminary purchasing allowance, not a soft-soil foundation design.
+### Gravel calculation: pit volume minus tapered drum volume
 
-For comparison, 2 cubic yards equals 108 half-cubic-foot bags. [Ace drainage rock](https://www.acehardware.com/departments/lawn-and-garden/landscaping/landscape-rock/7000375) listed at $6.99 per 0.5-cu-ft bag would total $754.92 before tax; its grading and local stock still need confirmation. Reliable Fremont-specific stone prices were not available from Home Depot or Lowe's during the research. Bulk delivered pricing should be compared before buying bags.
+Model the drum as a truncated cone (a cone with its tip cut off). Use outside dimensions because the whole drum displaces gravel, including its hollow interior. The calculation assumes straight tapered walls, a constant pit footprint, and gravel up to lid level; projecting fittings and irregular excavation are not included.
+
+Let `H` be drum height, `D` top outside diameter, and `d` bottom outside diameter, all in inches. For the rectangular pit:
+
+- Pit volume = `32 × 24 × (H + 12) / 1728` cubic feet.
+- Drum volume = `π × H × (D² + D × d + d²) / (12 × 1728)` cubic feet.
+- Gravel volume = pit volume minus drum volume.
+- Cubic yards = cubic feet divided by `27`.
+
+Using `H = 31.50` inches and provisional `D = 21.26` inches:
+
+| Component | Volume |
+| --- | ---: |
+| Entire pit: 32 × 24 × 43.50 inches | 19.33 cu ft |
+| Full-footprint 12-inch gravel base | 5.33 cu ft |
+| Pit space over the base, before subtracting drum | 14.00 cu ft |
+| Tapered drum | Requires measured bottom diameter `d` |
+| Total gravel, before soil cap or allowance | `19.3333 − 0.00477238 × (21.26² + 21.26 × d + d²)` cu ft |
+
+**Worked example only:** if the bottom outside diameter is **18 inches**, drum volume is **5.53 cu ft**. Side backfill is **8.47 cu ft**, and total gravel is **5.33 + 8.47 = 13.80 cu ft (0.51 cubic yard)**. A provisional 10% purchasing allowance gives **15.18 cu ft (0.56 cubic yard)**, rounded up to **31 half-cubic-foot bags** or **16 one-cubic-foot bags**. The 18-inch bottom diameter is an illustration, not a verified product measurement. The allowance covers modest handling and placement variation; it is not a foundation design.
+
+For the rectangular example, bottom-and-side fabric surface is `(32 × 24 + 2 × (32 + 24) × 43.50) / 144` = **39.17 sq ft**, before overlaps and cuts. A 6-inch soil cap replaces approximately **1.47 cu ft** of gravel: the tapered drum diameter 6 inches below its top is `21.26 − (21.26 − 18) × 6 / 31.50` = **20.64 inches**; subtract the volume of that upper 6-inch drum segment from the pit's upper 6-inch volume. Recalculate this cap with the actual drum diameters, and deduct it before applying a gravel purchasing allowance.
+
+Using the previously researched [Ace drainage rock](https://www.acehardware.com/departments/lawn-and-garden/landscaping/landscape-rock/7000375) price of $6.99 per 0.5-cu-ft bag, the illustrative **31 bags cost $216.69 before tax**, with no soil-cap deduction. At the listed Lyngsø price of $6.95 per 1-cu-ft self-filled bag, **16 bags cost $111.20 before tax**. Grading, current price, local stock, and collection or delivery costs still need confirmation. Reliable Fremont-specific stone prices were not available from Home Depot or Lowe's during the original research. Compare bagged collection with an all-in bulk quote for the measured quantity; the former 2-cubic-yard estimate does not apply to this fixed pit.
 
 ### Tools: borrow first, purchase only if needed
 
@@ -106,7 +130,7 @@ The tools and materials above cover pit preparation. Pipe lengths, fittings, ven
 
 ## Sources
 
-- VEVOR product dimension image: https://img.vevorstatic.com/us%2FWSBXTWSBFQFZCQPAV001V1%2Fgoods_img_big-v1%2Fsink-pump-f6.jpg?format=webp
-- VEVOR ZX31006/ZX31008 manufacturer installation manual, hosted by Manuals+: https://manuals.plus/m/0e072c826a5ece233d23d150a2d4e57c034f40a255f21a21329ece65d411c27a_optim.pdf
+- VEVOR product dimension image (visually checked October 25, 2026; confirms overall width and height, but provides no bottom diameter): https://img.vevorstatic.com/us%2FWSBXTWSBFQFZCQPAV001V1%2Fgoods_img_big-v1%2Fsink-pump-f6.jpg?format=webp
+- VEVOR ZX31006/ZX31008 manufacturer installation manual, hosted by Manuals+ (link returned HTTP 403 on October 25, 2026; the manual guidance retained above comes from the existing document and was not reverified during this correction): https://manuals.plus/m/0e072c826a5ece233d23d150a2d4e57c034f40a255f21a21329ece65d411c27a_optim.pdf
 - FHWA guidance on aggregate and geosynthetics over soft subgrades (general soil behavior, not a sump foundation design): https://www.fhwa.dot.gov/engineering/geotech/pubs/05037/07d.cfm
 - OSHA excavation protection requirements: https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.652
